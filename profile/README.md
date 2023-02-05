@@ -2,18 +2,17 @@
 
 ## 📚 Programa (TP)
 
-| Semana 	| Tópico(s) 	| Repositório(s) 	|
-|--------	|-----------	|----------------	|
-| 1      	|           	|                	|
-
+| Semana | Tópico(s)                           | Repositório(s)                                                           |
+|--------|-------------------------------------|--------------------------------------------------------------------------|
+| **1**  | Introdução ao Git; Testes unitários | [Repo 1](https://github.com/Programacao-Avancada-2223/flight-management) |
 
 ## ⁉️ Esclarecimento de Dúvidas
 
 - Prof. Filipe Quintal - filipe.quintal@staff.uma.pt - Gabinete 2.139
 - Prof. Diogo Freitas - diogo.freitas@staff.uma.pt
 
-**⚠️ Contactos por email deverão ter `[PA]`: no início do assunto email**. Por exemplo, _[PA]: Como importar o pacote passport_
-
+**⚠️ Contactos por email deverão ter `[PA]`: no início do assunto email**. Por exemplo, _[PA]: Como importar o pacote
+passport_
 
 ## 🧰 Utilitários
 
