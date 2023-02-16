@@ -11,7 +11,7 @@
 - Prof. Filipe Quintal - filipe.quintal@staff.uma.pt - Gabinete 2.139
 - Prof. Diogo Freitas - diogo.freitas@staff.uma.pt
 
-**⚠️ Contactos por email deverão ter `[PA]`: no início do assunto email**. Por exemplo, _[PA]: Como importar o pacote
+**⚠️ Contactos por email deverão ter `[PA]:` no início do assunto email**. Por exemplo, _[PA]: Como importar o pacote
 passport_
 
 ## 🧰 Utilitários
