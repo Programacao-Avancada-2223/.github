@@ -5,7 +5,7 @@
 | Semana | Tópico(s)                                  | Repositório(s)                                                           |
 | ------ | ------------------------------------------ | ------------------------------------------------------------------------ |
 | **1**  | Introdução ao Git; Testes unitários        | [Repo 1](https://github.com/Programacao-Avancada-2223/flight-management) |
-| **2**  | Documentação JAVA e Maven + GitHub Actions | [Repo 1](https://github.com/Programacao-Avancada-2223/banking-account)   |
+| **2**  | Documentação JAVA e Maven; GitHub Actions  | [Repo 1](https://github.com/Programacao-Avancada-2223/banking-account)   |
 | **3**  | Computação Paralela - introdução           | [Repo 1](https://github.com/Programacao-Avancada-2223/html-stripper)     |
 
 ## ⁉️ Esclarecimento de Dúvidas
