@@ -2,11 +2,13 @@
 
 ## 📚 Programa (TP)
 
-| Semana | Tópico(s)                                  | Repositório(s)                                                           |
-| ------ | ------------------------------------------ | ------------------------------------------------------------------------ |
-| **1**  | Introdução ao Git; Testes unitários        | [Repo 1](https://github.com/Programacao-Avancada-2223/flight-management) |
-| **2**  | Documentação JAVA e Maven; GitHub Actions  | [Repo 1](https://github.com/Programacao-Avancada-2223/banking-account)   |
-| **3**  | Computação Paralela - introdução           | [Repo 1](https://github.com/Programacao-Avancada-2223/html-stripper)     |
+| Semana | Tópico(s)                                 | Repositório(s)                                                           |
+| ------ | ----------------------------------------- | ------------------------------------------------------------------------ |
+| **1**  | Introdução ao Git; Testes unitários       | [Repo 1](https://github.com/Programacao-Avancada-2223/flight-management) |
+| **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo 1](https://github.com/Programacao-Avancada-2223/banking-account)   |
+| **3**  | Computação Paralela - introdução          | [Repo 1](https://github.com/Programacao-Avancada-2223/html-stripper)     |
+| **4**  | Computação Paralela - introdução (cont.)  | [Repo 1](https://github.com/Programacao-Avancada-2223/image-filter)      |
+
 
 ## ⁉️ Esclarecimento de Dúvidas
 
