@@ -8,6 +8,7 @@
 | **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo](https://github.com/Programacao-Avancada-2223/banking-account)   |
 | **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)     |
 | **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)      |
+| **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)        |
 
 
 ## ⁉️ Esclarecimento de Dúvidas
