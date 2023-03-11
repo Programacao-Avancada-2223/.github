@@ -9,6 +9,7 @@
 | **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)     |
 | **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)      |
 | **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)        |
+| **6**  | Segurança - introdução                    | [Repo](https://github.com/Programacao-Avancada-2223/ascii-encryption)  |
 
 
 ## ⁉️ Esclarecimento de Dúvidas
