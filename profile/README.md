@@ -2,15 +2,16 @@
 
 ## 📚 Programa (TP)
 
-| Semana | Tópico(s)                                 | Repositório(s)                                                            |
-| ------ | ----------------------------------------- | ------------------------------------------------------------------------- |
-| **1**  | Introdução ao Git; Testes unitários       | [Repo](https://github.com/Programacao-Avancada-2223/flight-management)    |
-| **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo](https://github.com/Programacao-Avancada-2223/banking-account)      |
-| **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)        |
-| **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)         |
-| **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)           |
-| **6**  | Segurança - introdução                    | [Repo](https://github.com/Programacao-Avancada-2223/ascii-encryption)     |
-| **7**  | Encriptação simétrica                     | [Repo](https://github.com/Programacao-Avancada-2223/symmetric-encryption) |
+| Semana | Tópico(s)                                 | Repositório(s)                                                             |
+| ------ | ----------------------------------------- | -------------------------------------------------------------------------- |
+| **1**  | Introdução ao Git; Testes unitários       | [Repo](https://github.com/Programacao-Avancada-2223/flight-management)     |
+| **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo](https://github.com/Programacao-Avancada-2223/banking-account)       |
+| **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)         |
+| **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)          |
+| **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)            |
+| **6**  | Segurança - introdução                    | [Repo](https://github.com/Programacao-Avancada-2223/ascii-encryption)      |
+| **7**  | Encriptação simétrica                     | [Repo](https://github.com/Programacao-Avancada-2223/symmetric-encryption)  |
+| **8**  | Encriptação assimétrica                   | [Repo](https://github.com/Programacao-Avancada-2223/asymmetric-encryption) |
 
 
 ## ⁉️ Esclarecimento de Dúvidas
