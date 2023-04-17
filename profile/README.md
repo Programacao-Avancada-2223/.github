@@ -2,17 +2,17 @@
 
 ## 📚 Programa (TP)
 
-| Semana | Tópico(s)                                 | Repositório(s)                                                             |
-| ------ | ----------------------------------------- | -------------------------------------------------------------------------- |
-| **1**  | Introdução ao Git; Testes unitários       | [Repo](https://github.com/Programacao-Avancada-2223/flight-management)     |
-| **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo](https://github.com/Programacao-Avancada-2223/banking-account)       |
-| **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)         |
-| **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)          |
-| **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)            |
-| **6**  | Segurança - introdução                    | [Repo](https://github.com/Programacao-Avancada-2223/ascii-encryption)      |
-| **7**  | Encriptação simétrica                     | [Repo](https://github.com/Programacao-Avancada-2223/symmetric-encryption)  |
-| **8**  | Encriptação assimétrica                   | [Repo](https://github.com/Programacao-Avancada-2223/asymmetric-encryption) |
-
+| Semana | Tópico(s)                                 | Repositório(s)                                                                                                                                                  |
+|--------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1**  | Introdução ao Git; Testes unitários       | [Repo](https://github.com/Programacao-Avancada-2223/flight-management)                                                                                          |
+| **2**  | Documentação JAVA e Maven; GitHub Actions | [Repo](https://github.com/Programacao-Avancada-2223/banking-account)                                                                                            |
+| **3**  | Computação Paralela - introdução          | [Repo](https://github.com/Programacao-Avancada-2223/html-stripper)                                                                                              |
+| **4**  | Computação Paralela - introdução (cont.)  | [Repo](https://github.com/Programacao-Avancada-2223/image-filter)                                                                                               |
+| **5**  | Mecanismos de sincronização               | [Repo](https://github.com/Programacao-Avancada-2223/web-server)                                                                                                 |
+| **6**  | Segurança - introdução                    | [Repo](https://github.com/Programacao-Avancada-2223/ascii-encryption)                                                                                           |
+| **7**  | Encriptação simétrica                     | [Repo](https://github.com/Programacao-Avancada-2223/symmetric-encryption)                                                                                       |
+| **8**  | Encriptação assimétrica                   | [Repo](https://github.com/Programacao-Avancada-2223/asymmetric-encryption)                                                                                      |
+| **9**  | ECB, CBC, stream ciphers e HMAC           | [Repo Exe. 1](https://github.com/Programacao-Avancada-2223/aes-ecb-cbc) +  [Repo Exes. 2 e 3](https://github.com/Programacao-Avancada-2223/stream-ciphers-HMAC) |
 
 ## ⁉️ Esclarecimento de Dúvidas
 
@@ -24,6 +24,6 @@ passport_
 
 ## 🧰 Utilitários
 
-- [⌨️ Convite para o Discord da disciplina](https://discord.gg/4dZKET89EG).
-- [✏️ Inscrição no GitHub da disciplina](https://moodle.cee.uma.pt/2223/mod/feedback/view.php?id=41862).
+<!--- - [⌨️ Convite para o Discord da disciplina](https://discord.gg/4dZKET89EG). -->
+<!--- - [✏️ Inscrição no GitHub da disciplina](https://moodle.cee.uma.pt/2223/mod/feedback/view.php?id=41862). -->
 - [🖥️ Instalação e configuração do Git](https://moodle.cee.uma.pt/2223/mod/resource/view.php?id=39473).  
