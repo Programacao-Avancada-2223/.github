@@ -13,6 +13,7 @@
 | **7**  | Encriptação simétrica                     | [Repo](https://github.com/Programacao-Avancada-2223/symmetric-encryption)                                                                                       |
 | **8**  | Encriptação assimétrica                   | [Repo](https://github.com/Programacao-Avancada-2223/asymmetric-encryption)                                                                                      |
 | **9**  | ECB, CBC, stream ciphers e HMAC           | [Repo Exe. 1](https://github.com/Programacao-Avancada-2223/aes-ecb-cbc) +  [Repo Exes. 2 e 3](https://github.com/Programacao-Avancada-2223/stream-ciphers-HMAC) |
+| **10** | Introdução ao WebGL                       | [Repo](https://github.com/Programacao-Avancada-2223/introduction-webgl)                                                                                         |
 
 ## ⁉️ Esclarecimento de Dúvidas
 
