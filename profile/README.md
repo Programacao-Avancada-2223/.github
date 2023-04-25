@@ -14,11 +14,12 @@
 | **8**  | Encriptação assimétrica                   | [Repo](https://github.com/Programacao-Avancada-2223/asymmetric-encryption)                                                                                      |
 | **9**  | ECB, CBC, stream ciphers e HMAC           | [Repo Exe. 1](https://github.com/Programacao-Avancada-2223/aes-ecb-cbc) +  [Repo Exes. 2 e 3](https://github.com/Programacao-Avancada-2223/stream-ciphers-HMAC) |
 | **10** | Introdução ao WebGL                       | [Repo](https://github.com/Programacao-Avancada-2223/introduction-webgl)                                                                                         |
+| **11** | Transformações em WebGL                   | [Repo Exe. 2](https://github.com/Programacao-Avancada-2223/rotating-cube)                                                                                       |
 
 ## ⁉️ Esclarecimento de Dúvidas
 
 - Prof. Filipe Quintal - filipe.quintal@staff.uma.pt - Gabinete 2.139
-- Prof. Diogo Freitas - diogo.freitas@staff.uma.pt
+- Prof. Diogo Freitas - diogo.freitas@staff.uma.pt - Gabinete 2.106
 
 **⚠️ Contactos por email deverão ter `[PA]:` no início do assunto email**. Por exemplo, _[PA]: Como importar o pacote
 passport_
